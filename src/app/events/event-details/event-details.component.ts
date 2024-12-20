@@ -34,4 +34,8 @@ export class EventDetailComponent{
         this.eventService.updateEvent(this.event)
         this.addMode = false
     }
+
+    cancelAddSession(){
+        this.addMode = false
+    }
 }

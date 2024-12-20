@@ -3,7 +3,6 @@ import { Router } from "@angular/router";
 import { EventService } from "../shared";
 
 @Component({
-    selector:'create-session',
     templateUrl:'./create-event.component.html',
     styles: [`
         em{float:right; color; #E05C65; padding-left:10px;}
