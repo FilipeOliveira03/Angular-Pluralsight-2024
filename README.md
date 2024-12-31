@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Running server and page
+
+To run the server, you can open a terminal, and use the command `npm run server`.
+To run the pages, you can open another terminal, and use the command `npm start`.
+
